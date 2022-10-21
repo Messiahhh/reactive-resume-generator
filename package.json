@@ -1,0 +1,18 @@
+{
+  "name": "reactive-resume-native-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["resume", "reactive-resume", "pdf", "html-to-pdf", "puppeteer", "汉字", "字体", "简历"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^19.0.0"
+  }
+}
