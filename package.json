@@ -1,5 +1,5 @@
 {
-  "name": "reactive-resume-native-generator",
+  "name": "reactive-resume-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["resume", "reactive-resume", "pdf", "html-to-pdf", "puppeteer", "汉字", "字体", "简历"],
-  "author": "",
+  "author": "akara",
   "license": "ISC",
   "dependencies": {
     "pdf-lib": "^1.17.1",
